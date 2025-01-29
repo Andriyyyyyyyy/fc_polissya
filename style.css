@@ -1,16 +1,27 @@
 body {
-    background: green url("depositphotos_84188754-stock-photo-green-grass-texture.jpg") repeat 50% 0;
+    background: green url("bg.jpg") repeat 50% 0;
     font-family: Arial, Helvetica, sans-serif
 }
 
 h1 {color: gold;
 text-align:center 
 }
+Hightlights{
+  background-color: rgb(31, 160, 63);
+  padding: 20px;
+  margin: 20px 0;
+}
 p{
  background: rgba(0, 225, 0, 0.1);  
+ padding: 20px;
 }
 img{
-  width: 100px;
+ width: 100px;
 }
+footer{
+  background: black;
+  color: white;
+}
+
  
 
